@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **flutter**
 
-- 📫 How to reach me **loicyabili@gmail.com**
+- 📫 How to reach me **loicyabili@outlook.com**
 
 - 🤝 Hire me on [Fiverr](https://www.fiverr.com/locyabili)
 
